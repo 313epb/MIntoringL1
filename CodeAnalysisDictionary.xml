@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Dictionary>
+	<Words>
+		<Recognized>
+			<Word>Orm</Word>
+			<Word>Northwind</Word>
+			<Word>Dto</Word>
+			<Word>Redis</Word>
+		</Recognized>
+	</Words>
+</Dictionary>
